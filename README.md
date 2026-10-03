@@ -1,4 +1,4 @@
-# ⚡ Elite Video Downloader
+# ⚡ Wisp Video Downloader
 
 **Fast. Simple. Powerful.**
 
@@ -95,15 +95,9 @@ Any use of this application should respect the privacy and rights of other users
 
 ---
 
-## 📜 License
-
-See the [`LICENSE`](LICENSE) file for the license applicable to this project.
-
----
-
 # 🇹🇷 Türkçe
 
-# ⚡ Elite Video Downloader
+# ⚡ Wisp Video Downloader
 
 **Hızlı. Basit. Güçlü.**
 
@@ -200,8 +194,3 @@ Uygulama Google veya YouTube şifrenizi istemez.
 
 Uygulamanın kullanımı sırasında diğer kullanıcıların, içerik üreticilerinin ve içerik sahiplerinin gizliliğine ve haklarına saygı gösterilmelidir.
 
----
-
-## 📜 Lisans
-
-Bu projenin lisans bilgileri için [`LICENSE`](LICENSE) dosyasına bakabilirsiniz.
